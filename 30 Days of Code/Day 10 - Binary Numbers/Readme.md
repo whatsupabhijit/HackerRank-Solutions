@@ -1,0 +1,1 @@
+Try to write a code using a Stack instead of HashMap

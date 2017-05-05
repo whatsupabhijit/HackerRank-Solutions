@@ -1,0 +1,1 @@
+If you are using the AlternateSolution.java file, before running the program please rename the file name to Solution.java
